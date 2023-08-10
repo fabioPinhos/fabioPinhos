@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Fabio](https://www.linkedin.com/in/fábio-pinho-06358119)! 
+### Hi there, I'm [Fabio](https://www.linkedin.com/in/fábio-pinho-06358119)! 
 
 I'm Fábio, a Application Developer and Backend Developer from Brazil. Graduated in System development, with more than 15 years of experience with development.
 
